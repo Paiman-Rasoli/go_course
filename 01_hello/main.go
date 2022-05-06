@@ -1,6 +1,10 @@
 package main
 
 import "fmt" //Format Package
+
 func main() {
-	fmt.Println("Hello_Wold")
+	// print new line
+	fmt.Println("Hello Wold👍");
+	// format print
+	fmt.Printf("The number is %d",5)
 }
