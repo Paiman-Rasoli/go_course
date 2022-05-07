@@ -5,7 +5,8 @@
 This repo is for those who want start learning Go language.
 all the code is according standard of go 1.18.1 version.
 
-### How To Run
+### How To Run?
 
-first install go the go directory which `main.go` is exist then run `go run main.go`
-in order to run your project.
+1.first install [Go Lang download page](https://go.dev/learn/).
+  _ then go directory which `main.go` is exist
+    _ finally run `go run main.go` in order to run code.
